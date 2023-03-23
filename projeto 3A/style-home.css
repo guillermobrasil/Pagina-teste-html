@@ -1,0 +1,102 @@
+header {
+	padding: 20px 0;
+	background: url("os.jpg");
+	border: 0;
+}
+
+.caixa {
+	position: relative;
+	width: 940px;
+	margin: 0 auto;
+}
+
+nav {
+	position: absolute;
+	top: 110px;
+	right: 0px;
+}
+nav ul{
+	display: inline;
+	margin: auto;
+}
+nav li {
+	display: inline;
+	margin: 0 0 0 15px;
+}
+
+nav a {
+	text-transform: uppercase;
+	color: #000000;
+	font-weight: bold;
+	font-size: 22px;
+	text-decoration: none;
+}
+
+nav a:hover {
+	color: #d31061;
+	text-decoration: underline;}
+
+
+.principal{
+	background: #CCCCCC;
+	padding: 30px;
+
+}
+
+.titulo-principal {
+	padding-left: 20px;
+}
+
+.titulo-centralizado {
+	text-align: center
+}
+.caixa2{
+	font-size:20px;
+	font-style: normal;
+}
+p {
+	text-align: center;
+}
+
+#missao {
+	font-size: 20px
+}
+
+em strong {
+	color: #d31061;
+}
+
+.itens {
+	margin-left: 20px;
+	font-style: italic
+}
+
+.beneficios {
+	background: #FFFFFF;
+	padding: 20px;
+}
+
+ul {
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 15%;
+}
+
+.imagembeneficios {
+	width: 30%;
+	margin-top: 0%;
+}
+
+footer {
+	text-align: center;
+	background: url("rodaf.png");
+	padding: 40px 0;
+}
+
+.copyright {
+	color: #ca2533;
+	font-size: 15px;
+	margin: 20px 0 0;
+	font-weight: bold;
+}
